@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### 언어
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 프레임워크 및 라이브러리
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -47,11 +48,21 @@ Here are some ideas to get you started:
 ![MES](https://img.shields.io/badge/MES-33A7FF?style=for-the-badge)
 ![SCM](https://img.shields.io/badge/SCM-8E44AD?style=for-the-badge)
 
+## 학습중인 기술
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 ## 프로젝트
-### [Project 1](https://github.com/yourusername/project1)
-![Project 1](https://img.shields.io/badge/Project%201-Java%2C%20Spring%20Boot-blue?style=for-the-badge)
+### [Project 1](https://github.com/dkdak/project1)
+![Project 1](https://img.shields.io/badge/Project%201-React%2C%20Java%2C%20Spring%20Boot-blue?style=for-the-badge)
+- 프론트엔드: React
+- 백엔드: Java, Spring Boot, JPA
+- 데이터베이스: PostgreSQL
 - 설명: 이 프로젝트는 호텔 예약을 위한 react 튜토리얼 버전입니다.
 
+  
 <!--
 ### [Project 2](https://github.com/yourusername/project2)
 ![Project 2](https://img.shields.io/badge/Project%202-Python%2C%20Django-blue?style=for-the-badge)
