@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-## 프로젝트
+## 진행중인 프로젝트
 ![Project Badge](https://img.shields.io/badge/Project%20Name-room--rent-blue?style=for-the-badge)
 - 프론트엔드: [React 클라이언트](https://github.com/dkdak/rentRoom-client)
 - 백엔드: [RestFull Api 백엔드 (Java, Spring Boot, JPA)](https://github.com/dkdak/rentRoom-server)
@@ -62,11 +62,9 @@ Here are some ideas to get you started:
 - 설명: 이 프로젝트는 호텔 예약을 위한 react 튜토리얼 버전입니다.
 
   
-<!--
 ### [Project 2](https://github.com/yourusername/project2)
 ![Project 2](https://img.shields.io/badge/Project%202-Python%2C%20Django-blue?style=for-the-badge)
 - 설명: 이 프로젝트는...
--->
 
 
 ## GitHub 통계
