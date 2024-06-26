@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ## 프로젝트
 ![Project Badge](https://img.shields.io/badge/Project%20Name-room--rent-blue?style=for-the-badge)
 - 프론트엔드: [React 클라이언트](https://github.com/dkdak/rentRoom-client)
-- 백엔드: [RestFull Api 백엔드 (Java, Spring Boot, JPA)]
+- 백엔드: [RestFull Api 백엔드 (Java, Spring Boot, JPA)](https://github.com/dkdak/rentRoom-client)
 - 데이터베이스: PostgreSQL
 - 설명: 이 프로젝트는 호텔 예약을 위한 react 튜토리얼 버전입니다.
 
@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 ### [Project 2](https://github.com/yourusername/project2)
 ![Project 2](https://img.shields.io/badge/Project%202-Python%2C%20Django-blue?style=for-the-badge)
 - 설명: 이 프로젝트는...
+-->
 
-<!--
 
 ## GitHub 통계
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
